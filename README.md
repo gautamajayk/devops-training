@@ -22,4 +22,4 @@ python < scriptname.py >
 conda env create --file env.yml
  
 ## To excute the script
-python nonstandardcode.py
+python main.py
